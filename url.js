@@ -13,7 +13,7 @@
 *風衣咖啡
 *牙膏印表機
 *印表機牙膏
-*del 啤酒起泡水  'https://docs.google.com/forms/d/e/1FAIpQLSd-vOpJcdXbxesrZhZDwfWpEo6S4WDZ5KkcRP4GCZsePw45Gw/viewform',
+*del 啤酒起泡水  'https://docs.google.com/forms/d/e/1FAIpQLSd-vOpJcdXbxesrZhZDwfWpEo6S4WDZ5KkcRP4GCZsePw45Gw/viewform'
 *起泡水啤酒
 *
 */	
