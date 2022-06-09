@@ -10,7 +10,7 @@
 /*
 *網站順序
 *del 咖啡風衣
-*風衣咖啡
+*del 風衣咖啡
 *del 牙膏印表機
 *印表機牙膏
 *del 啤酒起泡水   
@@ -20,7 +20,6 @@
 
 
 const urls = [
-	'https://docs.google.com/forms/d/e/1FAIpQLSeiHNin6-z97XyHWFIIAWx1Pq2UTaev7g4F8gRblik9d1jOIA/viewform',
 	'https://docs.google.com/forms/d/e/1FAIpQLScY4w-ZmeYmYL1PEvZ4A8jmkdaZYooHeWV5zsUoiahYWnUDuA/viewform',
 	'https://docs.google.com/forms/d/e/1FAIpQLScyEgYY1A8HSGcdLVCa7OyY5GQzhtkFPif_dbh3kEAQWPGgdA/viewform'	
 ];
