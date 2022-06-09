@@ -14,12 +14,11 @@
 *del 牙膏印表機
 *印表機牙膏
 *del 啤酒起泡水   
-*起泡水啤酒
+*del 起泡水啤酒
 *
 */	
 
 
 const urls = [
-	'https://docs.google.com/forms/d/e/1FAIpQLScY4w-ZmeYmYL1PEvZ4A8jmkdaZYooHeWV5zsUoiahYWnUDuA/viewform',
-	'https://docs.google.com/forms/d/e/1FAIpQLScyEgYY1A8HSGcdLVCa7OyY5GQzhtkFPif_dbh3kEAQWPGgdA/viewform'	
+	'https://docs.google.com/forms/d/e/1FAIpQLScY4w-ZmeYmYL1PEvZ4A8jmkdaZYooHeWV5zsUoiahYWnUDuA/viewform'
 ];
