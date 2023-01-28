@@ -11,17 +11,17 @@
 
 /*
 *網站順序
-*del 咖啡風衣
-*del 風衣咖啡
-*del 牙膏印表機
-*del 印表機牙膏
-*啤酒起泡水   
-*起泡水啤酒
-*
+*低符號
+*低功能
+*高符號
+*高功能
 */	
 
 
 const urls = [
-	'https://docs.google.com/forms/d/e/1FAIpQLSd-vOpJcdXbxesrZhZDwfWpEo6S4WDZ5KkcRP4GCZsePw45Gw/viewform',
-	'https://docs.google.com/forms/d/e/1FAIpQLScyEgYY1A8HSGcdLVCa7OyY5GQzhtkFPif_dbh3kEAQWPGgdA/viewform'
+	'https://docs.google.com/forms/d/e/1FAIpQLSemeSZLrFgkxSOK0CKodZp8EuWShEujRNwYXmXoLdS_LufCEA/viewform',
+	'https://docs.google.com/forms/d/e/1FAIpQLSeURgl0XND32OVD-6GM1I9YMVDnbBOO8hZWWrMzC41t2eCVEQ/viewform',
+	'https://docs.google.com/forms/d/e/1FAIpQLSdYuerFNJcTOJ2gHgtnKN0a33_VDA1uPiCYeL4wL992bcq4Hg/viewform',
+	'https://docs.google.com/forms/d/e/1FAIpQLSd8JVYBEGO-Bu9M3E4TQTck8yUQvx-c7l1XrOyyTiWlvuB0Uw/viewform'
+	
 ];
