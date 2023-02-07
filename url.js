@@ -11,17 +11,17 @@
 
 /*
 *網站順序
-*低符號
-*低功能
-*高符號
 *高功能
+*高符號
+*低功能
+*低符號
 */	
 
 
 const urls = [
-	'https://docs.google.com/forms/d/e/1FAIpQLSemeSZLrFgkxSOK0CKodZp8EuWShEujRNwYXmXoLdS_LufCEA/viewform',
-	'https://docs.google.com/forms/d/e/1FAIpQLSeURgl0XND32OVD-6GM1I9YMVDnbBOO8hZWWrMzC41t2eCVEQ/viewform',
-	'https://docs.google.com/forms/d/e/1FAIpQLSdYuerFNJcTOJ2gHgtnKN0a33_VDA1uPiCYeL4wL992bcq4Hg/viewform',
-	'https://docs.google.com/forms/d/e/1FAIpQLSd8JVYBEGO-Bu9M3E4TQTck8yUQvx-c7l1XrOyyTiWlvuB0Uw/viewform'
+	'https://docs.google.com/forms/d/e/1FAIpQLSd8JVYBEGO-Bu9M3E4TQTck8yUQvx-c7l1XrOyyTiWlvuB0Uw/viewform',
+	'https://docs.google.com/forms/d/e/1FAIpQLSfwjMQ2kl6xp_bY-JYyeYshvVnkQ0KCDuMHxnSYvBqR2r4quQ/viewform',
+	'https://docs.google.com/forms/d/e/1FAIpQLSf83IDkKoGnVa-T8hRJE3BDmtezNhPLXr0JgFsXHrHzA6bZaQ/viewform',
+	'https://docs.google.com/forms/d/e/1FAIpQLScADsACE-mcCgoKMXg7HzLVzRBU6O7_cJsedR19FBPc4KCqww/viewform'
 	
 ];
