@@ -12,11 +12,8 @@
 /*
 *網站順序
 *高功能
-*'https://docs.google.com/forms/d/e/1FAIpQLSd8JVYBEGO-Bu9M3E4TQTck8yUQvx-c7l1XrOyyTiWlvuB0Uw/viewform',
 *高符號
-*'https://docs.google.com/forms/d/e/1FAIpQLSfwjMQ2kl6xp_bY-JYyeYshvVnkQ0KCDuMHxnSYvBqR2r4quQ/viewform',
 *低功能
-* 'https://docs.google.com/forms/d/e/1FAIpQLSf83IDkKoGnVa-T8hRJE3BDmtezNhPLXr0JgFsXHrHzA6bZaQ/viewform',
 *低符號
 */	
 
