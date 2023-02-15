@@ -21,6 +21,6 @@
 const urls = [
 	
 	
-	'https://docs.google.com/forms/d/e/1FAIpQLScADsACE-mcCgoKMXg7HzLVzRBU6O7_cJsedR19FBPc4KCqww/viewform'
+	https://docs.google.com/forms/d/e/1FAIpQLSf83IDkKoGnVa-T8hRJE3BDmtezNhPLXr0JgFsXHrHzA6bZaQ/viewform
 	
 ];
