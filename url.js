@@ -21,6 +21,6 @@
 
 
 const urls = [
-	
-	'https://docs.google.com/forms/d/e/1FAIpQLSejb9pV6NsysLHy3XCvf8jLIyTXkXmxDSCG2urpmB4irGbLNw/viewform'	
+	'https://www.baidu.com/'
+	'https://www.bilibili.com/'	
 ];
